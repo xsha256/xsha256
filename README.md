@@ -9,14 +9,26 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 
 <hr size="3" width="100%" color="blue" align="center">
 
-+ 🌱 I’m currently learning...
-+ 📫 How to reach me: xsha256dev@proton.me
+<p dir="auto">
+  <li>  🌱 I’m currently learning: </l> 
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img height="20" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img height="20" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
+ <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"><img height="20" alt="graphql" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img height="20" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img height="20" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img height="20" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a></code>
+</p>
+
+<p><li>  📫 How to reach me:<a href="mailto:xsha256dev@proton.me "> xsha256dev@proton.me</a> </l> </p>
+
 
 <hr size="3" width="100%" color="blue" align="center">
 
 <a href="https://github.com/xsha26/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsha256&layout=compact&count_private=true&langs_count=8))](https://github.com/xsha256/github-readme-stats" />
 </a>
+
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xsha256&theme=holi-theme" />
 </a>
