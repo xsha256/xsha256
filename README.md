@@ -22,9 +22,13 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 
 <p><li>  📫 How to reach me:<a href="mailto:xsha256dev@proton.me "> xsha256dev@proton.me</a> </l> </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=xsha256&label=Profile+views&style=plastic&color=blue" alt="image title" data-canonical-src="https://rushter.com/counter.svg" style="max-width: 100%;">
+ </p>
+
+
 
 <hr size="3" width="100%" color="blue" align="center">
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -38,6 +42,11 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 
 
 <!-- Comentario:
+
+ [![HitCount](https://hits.dwyl.com/xsha256/Counter.svg?style=flat)](http://hits.dwyl.com/xsha256/Counter)
+  [![HitCount](https://hits.dwyl.com/xsha256/Counter.svg?style=flat&show=unique)](http://hits.dwyl.com/xsha256/Counter)
+  [![HitCount](https://hits.dwyl.com/xsha256/Counter.svg?style=flat-square)](http://hits.dwyl.com/xsha256/Counter)
+  ![](https://komarev.com/ghpvc/?username=xsha256&label=PROFILE+VIEWS&style=plastic&color=blue)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)&langs_count=8))](https://github.com/anuraghazra/github-readme-stats" />
