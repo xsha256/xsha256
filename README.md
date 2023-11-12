@@ -19,6 +19,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"><img height="20" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"><img height="20" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img height="20" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img height="20" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"><img height="20" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" style="max-width: 100%;"></a></code>
 </p>
 
 <p><li>  📫 How to reach me:<a href="mailto:xsha256dev@proton.me "> xsha256dev@proton.me</a> </l> </p>
