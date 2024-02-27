@@ -11,7 +11,7 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 
 <p dir="auto">
   <li>  🌱 I’m currently learning: </l> 
-  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg"><img height="20" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" style="max-width: 100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg"><img height="20" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"><img height="20" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img height="20" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"><img height="20" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="max-width: 100%;"></a></code>
