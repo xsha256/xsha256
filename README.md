@@ -3,7 +3,7 @@
 Hi there 👋,
 </H3>
 <H4 align="center">
-As a technology enthusiast, I am constantly learning and exploring new horizons. My current focus is on cloud development with Azure, and Blockchain. I am always eager to take on new challenges and expand my knowledge in the field.
+As a technology enthusiast, I am constantly learning and exploring new horizons. My current focus is on fullstack, and Blockchain. I am always eager to take on new challenges and expand my knowledge in the field.
 </H4>
 </dev>
 
