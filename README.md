@@ -97,7 +97,7 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" alt="Statistics Icon" width="25" height="25" /> Profile Statistics
 
-
+<br>
 
 <div align="center">
   <table align="center">
@@ -121,5 +121,13 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
       </td>
     </tr>
   </table>
+</div>
+
+<br> 
+<br>
+<br> 
+
+<div align="center">
+  <img src="github-metrics.svg" alt="Mis Estadísticas Totales de GitHub" width="100%" />
 </div>
 
