@@ -37,42 +37,27 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 <hr size="3" width="100%" color="blue" align="center">
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsha256&langs_count=10" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xsha256&theme=holi-theme" />
-</a>
+<div align="center">
+  <table align="center">
+    <tr align="center" valign="middle">
+      <td rowspan="2" align="center" valign="middle">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsha256&langs_count=10&theme=radical&show_icons=true" alt="Top Languages" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=xsha256&theme=holi-theme" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center" valign="middle">
+      <td align="center" valign="middle">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=xsha256&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=chartreuse-dark" alt="GitHub Additional Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-
-
-<!-- Comentario:
-
- [![HitCount](https://hits.dwyl.com/xsha256/Counter.svg?style=flat)](http://hits.dwyl.com/xsha256/Counter)
-  [![HitCount](https://hits.dwyl.com/xsha256/Counter.svg?style=flat&show=unique)](http://hits.dwyl.com/xsha256/Counter)
-  [![HitCount](https://hits.dwyl.com/xsha256/Counter.svg?style=flat-square)](http://hits.dwyl.com/xsha256/Counter)
-  ![](https://komarev.com/ghpvc/?username=xsha256&label=PROFILE+VIEWS&style=plastic&color=blue)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)&langs_count=8))](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-
-
- <a href="https://github-readme-stats.vercel.app/api?username=xsha256&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xsha256&show_icons=true&&theme=transparent&count_private=true" />
-</a>
-
-**xsha256/xsha256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
