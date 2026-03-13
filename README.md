@@ -41,6 +41,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
   <code><a target="_blank" rel="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img height="40" width="40" alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a></code>
 </div>
 
+<br>
+
 ### 🖥️ Frameworks: 
 
 <div align="center">
@@ -52,6 +54,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"><img height="40" width="40" alt="bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;"></a></code>
 </div>
 
+<br>
+
 ### 🛢️ DB:
 
 <div align="center">
@@ -59,6 +63,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg"><img height="40" width="40" alt="mariadb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"><img height="40" width="40" alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;"></a></code>
 </div>
+
+<br>
 
 ### ⚙️ Infrastructure & DevOps: 
 
@@ -72,6 +78,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg"><img height="40" width="40" alt="supabase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" style="max-width: 100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg"><img height="40" width="40" alt="vercel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" style="max-width: 100%;"></a></code>
 </div>
+
+<br>
 
 ### 💻 OS:
 
