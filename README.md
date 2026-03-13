@@ -1,5 +1,9 @@
 <dev id="header" align="center">
 <H3 align="center">
+  <p align="center">
+<img src="https://komarev.com/ghpvc/?username=xsha256&label=Profile+views&style=plastic&color=brightgreen" alt="image title" data-canonical-src="https://rushter.com/counter.svg" style="max-width: 100%;">
+ </p>
+
 Hi there 👋,
 </H3>
 <H4 align="center">
@@ -28,9 +32,6 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 
 <p><li>  📫 How to reach me:<a href="mailto:xsha256@icloud.com "> xsha256@icloud.com</a> </l> </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=xsha256&label=Profile+views&style=plastic&color=blue" alt="image title" data-canonical-src="https://rushter.com/counter.svg" style="max-width: 100%;">
- </p>
 
 
 
