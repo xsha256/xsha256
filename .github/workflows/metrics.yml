@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.READMESTATISTICS }}
           card: top-langs
           path: generated-top-langs.svg
-          options: username=xsha256&langs_count=20&theme=radical&show_icons=true&exclude_repo=${{ secrets.REPOS_OCULTOS }}
+          options: username=xsha256&langs_count=11&theme=radical&show_icons=true&exclude_repo=${{ secrets.REPOS_OCULTOS }}
 
       # 4. Tarjeta de estadísticas adicionales 
       - name: Generate Additional Stats SVG
