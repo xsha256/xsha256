@@ -50,4 +50,5 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add generated-top-langs.svg generated-additional-stats.svg
           git diff-index --quiet HEAD || git commit -m "docs: update separated stats svgs"
+          git pull --rebase origin main
           git push
