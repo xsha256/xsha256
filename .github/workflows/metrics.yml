@@ -10,6 +10,10 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Lowlighter 
       - name: Generate Unified GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -18,14 +22,32 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
-          
-          # la sección de lenguajes 
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_limit: 15
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage, lines
-          
-          # calendario de commits anuales
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      # 3. Tarjeta de lenguajes 
+      - name: Generate Top Langs SVG
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.READMESTATISTICS }}
+          card: top-langs
+          path: generated-top-langs.svg
+          options: username=xsha256&langs_count=10&theme=radical&show_icons=true
+
+      # 4. Tarjeta de estadísticas adicionales 
+      - name: Generate Additional Stats SVG
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          token: ${{ secrets.READMESTATISTICS }}
+          card: stats
+          path: generated-additional-stats.svg
+          options: username=xsha256&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=chartreuse-dark&count_private=true
+
+      # 5. los SVGs 
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated-top-langs.svg generated-additional-stats.svg
+          git diff-index --quiet HEAD || git commit -m "docs: update separated stats svgs"
+          git push
