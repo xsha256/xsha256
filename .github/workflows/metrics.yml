@@ -48,7 +48,15 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          mkdir -p /tmp/stats-assets
+          cp generated-top-langs.svg generated-additional-stats.svg /tmp/stats-assets/
+          
+          git fetch origin main
+          git reset --hard origin/main
+          
+          cp /tmp/stats-assets/* ./
+          
           git add generated-top-langs.svg generated-additional-stats.svg
           git diff-index --quiet HEAD || git commit -m "docs: update separated stats svgs"
-          git pull --rebase origin main
-          git push
+          git push origin main
