@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.READMESTATISTICS }}
           card: top-langs
           path: generated-top-langs.svg
-          options: username=xsha256&langs_count=10&theme=radical&show_icons=true
+          options: username=xsha256&langs_count=20&theme=radical&show_icons=true&exclude_repo=${{ secrets.REPOS_OCULTOS }}
 
       # 4. Tarjeta de estadísticas adicionales 
       - name: Generate Additional Stats SVG
@@ -41,7 +41,7 @@ jobs:
           token: ${{ secrets.READMESTATISTICS }}
           card: stats
           path: generated-additional-stats.svg
-          options: username=xsha256&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=chartreuse-dark&count_private=true
+          options: username=xsha256&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=chartreuse-dark&count_private=true&exclude_repo=${{ secrets.REPOS_OCULTOS }}
 
       # 5. los SVGs 
       - name: Commit and Push
