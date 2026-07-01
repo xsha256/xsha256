@@ -101,6 +101,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
 
 <br>
 
+<!-- ESTADISTICAS DE REPOS PUBLICOS -->
+<!-- 
 <div align="center">
   <table align="center">
     <tr align="center" valign="middle">
@@ -119,6 +121,32 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
       <td align="center" valign="middle">
         <a href="https://github.com/stats-organization/github-stats-extended">
           <img src="https://github-stats-extended.vercel.app/api?username=xsha256&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=chartreuse-dark" alt="GitHub Additional Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div> -->
+
+<!-- ESTADISTICAS DE REPOS PUBLICOS Y PRIVADOS -->
+
+<div align="center">
+  <table align="center">
+    <tr align="center" valign="middle">
+      <td rowspan="2" align="center" valign="middle">
+        <a href="https://github.com/xsha256">
+          <img src="generated-top-langs.svg" alt="Top Languages" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=xsha256&theme=holi-theme" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr align="center" valign="middle">
+      <td align="center" valign="middle">
+        <a href="https://github.com/xsha256">
+          <img src="generated-additional-stats.svg" alt="GitHub Additional Stats" />
         </a>
       </td>
     </tr>
