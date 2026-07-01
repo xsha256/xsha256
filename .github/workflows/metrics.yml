@@ -1,30 +1,49 @@
 name: Metrics
 on:
-  # Ejecuta el robot cada 24 horas a medianoche
   schedule: [{cron: "0 0 * * *"}]
-  # Permite ejecutarlo manualmente si quieres actualizarlo ya
   workflow_dispatch:
-  # Se actualiza cuando cambias algo en tu README
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # 1. Lowlighter Metrics (Genera github-metrics.svg)
+      - name: Generate Lowlighter Metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Aquí usa el secreto que acabas de guardar
           token: ${{ secrets.READMESTATISTICS }}
-          
-          # Tu nombre de usuario
           user: xsha256
-          
-          # Configuración de la plantilla (estilo oscuro y estadísticas a fondo)
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Madrid
-          
-          # Esto obliga a contar todo tu historial y repositorios privados
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      # 2. Tarjeta de Lenguajes (Top-Langs)
+      - name: Generate Top Langs SVG
+        uses: stats-organization/github-stats-extended-action@v1.0.1
+        with:
+          token: ${{ secrets.READMESTATISTICS }}
+          output: generated-top-langs.svg
+          api: top-langs
+          username: xsha256
+          langs_count: 20
+          theme: radical
+          show_icons: true
+
+      # 3. Tarjeta de Estadísticas Adicionales
+      - name: Generate Additional Stats SVG
+        uses: stats-organization/github-stats-extended-action@v1.0.1
+        with:
+          token: ${{ secrets.READMESTATISTICS }}
+          output: generated-additional-stats.svg
+          api: base
+          username: xsha256
+          show_icons: true
+          show: reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments
+          theme: chartreuse-dark
+          count_private: true
+
