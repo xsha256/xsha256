@@ -105,8 +105,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
   <table align="center">
     <tr align="center" valign="middle">
       <td rowspan="2" align="center" valign="middle">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xsha256&langs_count=10&theme=radical&show_icons=true" alt="Top Languages" />
+        <a href="https://github.com/stats-organization/github-stats-extended">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xsha256&langs_count=10&theme=radical&show_icons=true" alt="Top Languages" />
         </a>
       </td>
       <td align="center" valign="middle">
@@ -117,8 +117,8 @@ As a technology enthusiast, I am constantly learning and exploring new horizons.
     </tr>
     <tr align="center" valign="middle">
       <td align="center" valign="middle">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=xsha256&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=chartreuse-dark" alt="GitHub Additional Stats" />
+        <a href="https://github.com/stats-organization/github-stats-extended">
+          <img src="https://github-stats-extended.vercel.app/api?username=xsha256&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issue_comments&theme=chartreuse-dark" alt="GitHub Additional Stats" />
         </a>
       </td>
     </tr>
